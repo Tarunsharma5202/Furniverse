@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 90vh;
+}
+
+.icon_1 {
+  float: center;
+  width: 250px;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 40px 0;
+
+}
+
+.imgg {
+  float: center;
+  text-align: center;
+  align-self: auto;
+}
+
+.furnitures_text {
+  text-align: center;
+}
+
+.dummy_text {
+  text-align: center;
+}
+
+.imggg {
+  float: center;
+  text-align: center;
+  align-self: auto;
+
+}
+
+.d {
+  background-color: rgb(212, 176, 85);
+}
+
+.flaticon-brickwall display-1 font-weight-normal text-heavy mb-3 {
+  color: rgb(177, 204, 26);
+  font-size: 20px;
+}
+
+.txt text-secondary font-weight-bold text-uppercase bg-primary {
+  font-size: 600%;
+  color: rgb(255, 1, 1);
+  background: rgba(136, 56, 83, 0.849)
+}
+
+.portfolio-img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+  size-adjust: auto !important;
+}
+
+.portfolio-img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+
+
+}
+
+.portfolio-item .portfolio-text {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  bottom: -100%;
+  left: 0;
+  transition: .5s;
+}
+
+.portfolio-item:hover .portfolio-text {
+  bottom: 0;
+
+}
+
+.para {
+  font-size: larger;
+  color: black;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.profile .profile-overview .row {
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+
+.profile .profile-overview .card-title {
+  color: #012970;
+}
+
+.profile .profile-overview .label {
+  font-weight: 600;
+  color: rgba(1, 41, 112, 0.6);
+}
