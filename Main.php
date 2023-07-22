@@ -16,7 +16,7 @@
 
     <!-- nav start -->
 
-    <nav class="navbar navbar-expand-lg bg-secondary navbar-dark py-3 py-lg-0 pl-3 pl-lg-5">
+    <nav style="background-color: #6987A4;" class="navbar navbar-expand-lg navbar-dark py-3 py-lg-0 pl-3 pl-lg-5">
     <a class="navbar-brand" href="#">
     <img src="images/logo.png" alt="Logo" style="width:70px;">
   </a>

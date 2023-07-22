@@ -94,17 +94,11 @@
                         <form action="/" method="post">
 
                             <div class="field-wrap">
-                                <label>
-                                    Email Address<span class="req text-center"></span>
-                                </label>
-                                <input type="email" required autocomplete="off" />
+                                <input type="email" placeholder="Email" required autocomplete="off" />
                             </div>
 
                             <div class="field-wrap">
-                                <label>
-                                    Password<span class="req text-center"></span>
-                                </label>
-                                <input type="password" required autocomplete="off" />
+                                <input type="password" placeholder="Password" required autocomplete="off" />
                             </div>
 
                             <p class="forgot"><a href="#">Forgot Password?</a></p>
@@ -122,32 +116,20 @@
 
                             <div class="top-row">
                                 <div class="field-wrap">
-                                    <label>
-                                        First Name<span class="req text-center"></span>
-                                    </label>
-                                    <input type="text" required autocomplete="off" />
+                                    <input type="text" placeholder="First Name" required autocomplete="off" />
                                 </div>
 
                                 <div class="field-wrap">
-                                    <label>
-                                        Last Name<span class="req text-center"></span>
-                                    </label>
-                                    <input type="text" required autocomplete="off" />
+                                    <input type="text" placeholder="Last Name" required autocomplete="off" />
                                 </div>
                             </div>
 
                             <div class="field-wrap">
-                                <label>
-                                    Email Address<span class="req text-center"></span>
-                                </label>
-                                <input type="email" required autocomplete="off" />
+                                <input type="email" placeholder="Email Address" required autocomplete="off" />
                             </div>
 
                             <div class="field-wrap">
-                                <label>
-                                    Set A Password<span class="req text-center"></span>
-                                </label>
-                                <input type="password" required autocomplete="off" />
+                                <input type="password" placeholder="Set A Password" required autocomplete="off" />
                             </div>
 
                             <button type="submit" class="button button-block "
